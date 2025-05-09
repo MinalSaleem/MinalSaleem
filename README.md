@@ -1,6 +1,6 @@
 <!-- Typing SVG effect -->
 <h1 align="center">
-  Hi there, I'm Ariba 👋
+  Hi there, I'm Minal 👋
 </h1>
 <p align="center">
   <b>Frontend Developer | Lifelong Learner | Creative Mind</b>
@@ -30,10 +30,6 @@ Every day, I enjoy learning something new and experimenting with various aspects
 </p>
 
 
----
-
-### 📫 Let's Connect!
-- 🔗 [LinkedIn](www.linkedin.com/in/minalsaleem)
 
 ---
 
