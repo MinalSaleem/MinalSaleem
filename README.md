@@ -33,10 +33,6 @@ Every day, I enjoy learning something new and experimenting with various aspects
 
 ---
 
-<p align="center">
-  <i>"Code doesn't just create software — it creates solutions." — Minal 💙</i>
-</p> 
-
 
 
 
